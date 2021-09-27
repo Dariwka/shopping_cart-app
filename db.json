@@ -1,0 +1,135 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "availablecategory": "salt scrubs",
+      "title": "Salt body scrub",
+      "img": "/img/scrub_salt/scrub_coffee.png",
+      "aroma": "coffee",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "availablecategory": "salt scrubs",
+      "title": "Salt body scrub",
+      "img": "/img/scrub_salt/scrub_chocolate.png",
+      "aroma": "chocolate",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "availablecategory": "salt scrubs",
+      "title": "Salt body scrub",
+      "img": "/img/scrub_salt/scrub_chocolate.png",
+      "aroma": "cranbery",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "availablecategory": "salt scrubs",
+      "title": "Salt body scrub",
+      "img": "/img/scrub_salt/scrub_chocolate.png",
+      "aroma": "mango",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "availablecategory": "salt scrubs",
+      "title": "Salt body scrub",
+      "img": "/img/scrub_salt/scrub_chocolate.png",
+      "aroma": "strawberry",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "availablecategory": "salt scrubs",
+      "title": "Salt body scrub",
+      "img": "/img/scrub_salt/scrub_chocolate.png",
+      "aroma": "lemongrass",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "availablecategory": "sugar scrubs",
+      "title": "Sugar Scrub",
+      "img": "/img/scrub_salt/scrub_coffee.png",
+      "aroma": "coffee",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 8,
+      "availablecategory": "sugar scrubs",
+      "title": "Sugar Scrub",
+      "img": "/img/scrub_salt/scrub_chocolate.png",
+      "aroma": "chocolate",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 9,
+      "availablecategory": "sugar scrubs",
+      "title": "Sugar Scrub",
+      "img": "/img/scrub_salt/scrub_chocolate.png",
+      "aroma": "cranbery",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 10,
+      "availablecategory": "sugar scrubs",
+      "title": "Sugar Scrub",
+      "img": "/img/scrub_salt/scrub_chocolate.png",
+      "aroma": "mango",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 11,
+      "availablecategory": "sugar scrubs",
+      "title": "Sugar Scrub",
+      "img": "/img/scrub_salt/scrub_chocolate.png",
+      "aroma": "strawberry",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 12,
+      "availablecategory": "sugar scrubs",
+      "title": "Sugar Scrub",
+      "img": "/img/scrub_salt/scrub_chocolate.png",
+      "aroma": "lemongrass",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    },
+    {
+      "id": 13,
+      "availablecategory": "oils",
+      "title": "Essential Oil",
+      "img": "/img/scrub_salt/scrub_chocolate.png",
+      "aroma": "lemongrass",
+      "volume": 200,
+      "price": 9.9,
+      "quantity": 0
+    }
+  ],
+  "cart": []
+}
